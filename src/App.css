@@ -50,3 +50,11 @@
     border-radius: 18px;
     filter: brightness(0.7);
 }
+
+.btn-export-meme{
+    background: #f31847;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}

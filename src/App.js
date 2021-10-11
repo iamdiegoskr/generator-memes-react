@@ -64,7 +64,7 @@ function App() {
           value={linea2}
           />
 
-        <button onClick={onClickExporter} >Exportar</button>
+        <button className="btn-export-meme" onClick={onClickExporter} >Exportar</button>
       </div>
 
 
